@@ -4,6 +4,3 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/TolgaYld/gateway.git
-[submodule "post"]
-	path = post
-	url = ./post
