@@ -4,3 +4,12 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/TolgaYld/gateway.git
+[submodule "post"]
+	path = post
+	url = https://github.com/TolgaYld/post.git
+[submodule "comment"]
+	path = comment
+	url = https://github.com/TolgaYld/comment.git
+[submodule "report"]
+	path = report
+	url = https://github.com/TolgaYld/report.git
